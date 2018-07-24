@@ -14,6 +14,15 @@ raw data on the webpage:
        <br />      
 \[Fetched]
 ![](https://github.com/Sabrinalulu/mergeBaikeAPI/blob/master/mergeSearch2.png)
+       <br />
+{I have omited some data}
+       <br />
 ![](https://github.com/Sabrinalulu/mergeBaikeAPI/blob/master/mergeSearch3.png)
+       <br />
+{I have omited some data}
+       <br /> 
 ![](https://github.com/Sabrinalulu/mergeBaikeAPI/blob/master/mergeSearch4.png)
+       <br />
+{I have omited some data}
+       <br />
 ![](https://github.com/Sabrinalulu/mergeBaikeAPI/blob/master/mergeSearch5.png)
