@@ -2,17 +2,17 @@
 
 Resources: http://zhishi.me/
 
-Screenshots:      <br />      
-example information on the webpage:
+\[Screenshots]  <br />    
+raw data on the webpage:
 ![](https://github.com/Sabrinalulu/mergeBaikeAPI/blob/master/mergeSearch0.png)
        <br />     
-Search:
+\[Search]
 ![](https://github.com/Sabrinalulu/mergeBaikeAPI/blob/master/mergeSearch.png)
        <br />      
- Link...
+\[Link]
 ![](https://github.com/Sabrinalulu/mergeBaikeAPI/blob/master/mergeSearch1.png)
        <br />      
-Fetched:
+\[Fetched]
 ![](https://github.com/Sabrinalulu/mergeBaikeAPI/blob/master/mergeSearch2.png)
 ![](https://github.com/Sabrinalulu/mergeBaikeAPI/blob/master/mergeSearch3.png)
 ![](https://github.com/Sabrinalulu/mergeBaikeAPI/blob/master/mergeSearch4.png)
